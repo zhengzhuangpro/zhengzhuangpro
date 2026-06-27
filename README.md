@@ -40,6 +40,12 @@
 - [基于 Cloudflare 搭建免费节点](https://blog.zhengz.cc/vpn/%E5%9F%BA%E4%BA%8E-cloudflare-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/)
 <!-- BLOG-POST-LIST:END -->
 
+## 公众号
+<p float="left">
+  <img height="180" alt="扫码_搜索联合传播样式-标准色版" src="https://github.com/user-attachments/assets/5cf057c8-dfb1-407e-9e8a-e21df3dad4eb" />
+</p>
+
+
 <!--
 ## GitHub Activity
 
