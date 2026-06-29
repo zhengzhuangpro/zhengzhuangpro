@@ -42,7 +42,7 @@
 
 ## 公众号
 <p float="left">
-  <img height="180" alt="扫码_搜索联合传播样式-标准色版" src="https://github.com/user-attachments/assets/5cf057c8-dfb1-407e-9e8a-e21df3dad4eb" />
+  <img height="180" alt="扫码_搜索联合传播样式-标准色版" src="https://img.zhengz.cc/pic-go/20260629161612206.png" />
 </p>
 
 
