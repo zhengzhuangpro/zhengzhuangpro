@@ -33,11 +33,11 @@
 
 ## 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [零成本打造专业收件域名邮箱：Cloudflare + Gmail 终极配置保姆级全攻略](https://blog.zhengz.cc/ai/%E9%9B%B6%E6%88%90%E6%9C%AC%E6%89%93%E9%80%A0%E4%B8%93%E4%B8%9A%E6%94%B6%E4%BB%B6%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1cloudflare--gmail-%E7%BB%88%E6%9E%81%E9%85%8D%E7%BD%AE%E4%BF%9D%E5%A7%86%E7%BA%A7%E5%85%A8%E6%94%BB%E7%95%A5/)
 - [Vibe Coding 入门指南：从零基础到 AI 编程高手](https://blog.zhengz.cc/ai/vibe-coding-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0-ai-%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B/)
 - [当 CLI 工具成为 AI Agent 的手和脚](https://blog.zhengz.cc/ai/%E5%BD%93-cli-%E5%B7%A5%E5%85%B7%E6%88%90%E4%B8%BA-ai-agent-%E7%9A%84%E6%89%8B%E5%92%8C%E8%84%9A/)
 - [你的剪贴板，该有个好记性。](https://blog.zhengz.cc/website/%E4%BD%A0%E7%9A%84%E5%89%AA%E8%B4%B4%E6%9D%BF%E8%AF%A5%E6%9C%89%E4%B8%AA%E5%A5%BD%E8%AE%B0%E6%80%A7/)
 - [Ai 开发新秩序 - Ai全栈应用开发技术栈 推荐](https://blog.zhengz.cc/ai/ai-%E5%BC%80%E5%8F%91%E6%96%B0%E7%A7%A9%E5%BA%8F---ai%E5%85%A8%E6%A0%88%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%8A%80%E6%9C%AF%E6%A0%88-%E6%8E%A8%E8%8D%90/)
-- [基于 Cloudflare 搭建免费节点](https://blog.zhengz.cc/vpn/%E5%9F%BA%E4%BA%8E-cloudflare-%E6%90%AD%E5%BB%BA%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 公众号
