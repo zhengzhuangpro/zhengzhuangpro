@@ -20,7 +20,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ## 🚀 正在构建
- - 🕸️ [deepseek-harness 插件](https://github.com/zhengzhuangpro/dsh-packages) - deepseek-harness 插件
+ - 🔥 [deepseek-harness 插件](https://github.com/zhengzhuangpro/dsh-packages) - deepseek-harness 插件
  - 🕸️ [AI Tab](https://ai-tab.zhengz.cc) - Chrome 新标签页扩展，自由布局、智能搜索、任务管理
  - 📰 [hotnews](https://github.com/zhengzhuangpro/hotnews) - 命令行热门新闻聚合工具
 
