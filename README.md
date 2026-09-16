@@ -33,7 +33,7 @@
 
 ## 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding 入门指南：从零基础到 AI 编程高手1](https://blog.zhengz.cc/ai/vibe-coding-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0-ai-%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B1/)
+- [Vibe Coding 入门指南：从零基础到 AI 编程高手](https://blog.zhengz.cc/ai/vibe-coding-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0-ai-%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B/)
 - [Obsidian AI Agent 配置指南：Claudian + Obsidian Skills](https://blog.zhengz.cc/ai/obsidian-ai-agent-%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97claudian--obsidian-skills/)
 - [Moltbook Skill 完整拆解](https://blog.zhengz.cc/ai/moltbook-skill%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3/)
 - [Claude Skill](https://blog.zhengz.cc/ai/claude-skill/)
