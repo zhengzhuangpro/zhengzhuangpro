@@ -36,11 +36,11 @@
 
 ## 📚 最新博客文章
 <!-- BLOG-POST-LIST:START -->
+- [这两天 AI 圈最火的 Dots，到底是什么](https://blog.zhengz.cc/%E8%BF%99%E4%B8%A4%E5%A4%A9ai%E5%9C%88%E6%9C%80%E7%81%AB%E7%9A%84dots%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88/)
 - [ChatGPT、Claude、视频会员……你的每一项订阅，都该心中有数](https://blog.zhengz.cc/chatgptclaude%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%80%E9%A1%B9%E8%AE%A2%E9%98%85%E9%83%BD%E8%AF%A5%E5%BF%83%E4%B8%AD%E6%9C%89%E6%95%B0/)
 - [Claude 和 OpenAI 同天发新模型：一个降 40% 成本，一个降 50% 价](https://blog.zhengz.cc/claude-%E5%92%8C-openai-%E5%90%8C%E5%A4%A9%E5%8F%91%E6%96%B0%E6%A8%A1%E5%9E%8B%E4%B8%80%E4%B8%AA%E9%99%8D-40-%E6%88%90%E6%9C%AC%E4%B8%80%E4%B8%AA%E9%99%8D-50-%E4%BB%B7/)
 - [Vibe Coding 入门指南：从零基础到 AI 编程高手](https://blog.zhengz.cc/ai/vibe-coding-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%BB%8E%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%88%B0-ai-%E7%BC%96%E7%A8%8B%E9%AB%98%E6%89%8B/)
 - [Obsidian AI Agent 配置指南：Claudian + Obsidian Skills](https://blog.zhengz.cc/ai/obsidian-ai-agent-%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97claudian--obsidian-skills/)
-- [Moltbook Skill 完整拆解](https://blog.zhengz.cc/ai/moltbook-skill%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 公众号
